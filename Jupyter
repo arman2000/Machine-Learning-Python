@@ -1,0 +1,9 @@
+Shift + Tab				Python Doc
+Shift + Enter 			Run cell
+Ctrl + Enter			Run cell and highlight next cell
+Alt + Enter				Insert cell next
+
+
+%%time					Record time for cell
+!						Run on command line
+%%bash					Run multiple lines on the command line
